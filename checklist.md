@@ -1,4 +1,4 @@
-# Checklist for Manual Expert Review of Generated Policy as Code
+# Validation Checklist for Manual Expert Review of Generated Policy as Code
 
 This checklist is designed for manual expert review of generated policies as code (e.g., Rego, YAML) that validate or enforce a compliance rule. The goal is to assess whether the generated policy correctly enforces the input rule and aligns functionally with the reference output, regardless of structural differences.
 
